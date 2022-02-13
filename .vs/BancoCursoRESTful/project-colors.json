@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42210908-4f44-4fd7-8c89-203838707808": {
+      "ProjectGuid": "42210908-4f44-4fd7-8c89-203838707808",
+      "DisplayName": "Application",
+      "ColorIndex": 0
+    },
+    "f4bec503-bd7d-410f-8fe6-367204a379ed": {
+      "ProjectGuid": "f4bec503-bd7d-410f-8fe6-367204a379ed",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "c6f515f2-9d9e-49b6-9a94-d942a0e1795f": {
+      "ProjectGuid": "c6f515f2-9d9e-49b6-9a94-d942a0e1795f",
+      "DisplayName": "Shared",
+      "ColorIndex": 2
+    },
+    "c187db66-ac4a-4a53-8d28-98c953d13d01": {
+      "ProjectGuid": "c187db66-ac4a-4a53-8d28-98c953d13d01",
+      "DisplayName": "Persistence",
+      "ColorIndex": 3
+    },
+    "50aec120-29fd-4412-ba75-43e210df9cf6": {
+      "ProjectGuid": "50aec120-29fd-4412-ba75-43e210df9cf6",
+      "DisplayName": "WebAPI",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "d97234fd-331d-430d-9330-95c4e7b3cf00": {
+      "ProjectGuid": "d97234fd-331d-430d-9330-95c4e7b3cf00",
+      "DisplayName": "Application",
+      "ColorIndex": 5
+    },
+    "107e3520-8a64-4d3e-8587-ac956be75ad0": {
+      "ProjectGuid": "107e3520-8a64-4d3e-8587-ac956be75ad0",
+      "DisplayName": "Domain",
+      "ColorIndex": 6
+    },
+    "ec241911-ae3f-44d3-9644-adfeec2b4244": {
+      "ProjectGuid": "ec241911-ae3f-44d3-9644-adfeec2b4244",
+      "DisplayName": "Persistence",
+      "ColorIndex": 7
+    },
+    "413b941a-2620-4266-b311-7ace13f813ca": {
+      "ProjectGuid": "413b941a-2620-4266-b311-7ace13f813ca",
+      "DisplayName": "Shared",
+      "ColorIndex": 8
+    },
+    "fb52728a-1ec4-4a14-8ec0-b19fbf5d9e55": {
+      "ProjectGuid": "fb52728a-1ec4-4a14-8ec0-b19fbf5d9e55",
+      "DisplayName": "WebAPI",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
