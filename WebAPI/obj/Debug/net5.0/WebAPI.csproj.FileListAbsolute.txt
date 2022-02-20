@@ -39,3 +39,4 @@ C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\Microsoft.
 C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\Application.dll
 C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\Application.pdb
+C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\Ardalis.Specification.dll

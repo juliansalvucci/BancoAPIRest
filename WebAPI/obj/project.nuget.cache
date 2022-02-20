@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "i/3aKIM1R+zeJWIYuqBzwOh10pBGSUbv7+LB84LMady+w0fd3pamplpBsVxH4m4SdBU1uHN//ijEPDE88T7Qlg==",
+  "dgSpecHash": "i4CALr3qozB8iNPYWzPKluKf267kayBByryy4LLch5xwzO1kQb3d0GQk2cx5BT/nLY2eb/eOB2iddbzFaglVnA==",
   "success": true,
   "projectFilePath": "C:\\Users\\julia\\source\\repos\\BancoCursoRESTful\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\ardalis.specification\\5.2.0\\ardalis.specification.5.2.0.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",

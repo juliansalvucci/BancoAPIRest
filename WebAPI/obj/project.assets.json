@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Ardalis.Specification/5.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Ardalis.Specification.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Ardalis.Specification.dll": {}
+        }
+      },
       "AutoMapper/11.0.1": {
         "type": "package",
         "dependencies": {
@@ -219,6 +228,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "Ardalis.Specification": "5.2.0",
           "AutoMapper": "11.0.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0",
           "FluentValidation": "10.3.6",
@@ -235,6 +245,20 @@
     }
   },
   "libraries": {
+    "Ardalis.Specification/5.2.0": {
+      "sha512": "LYvbL3vln7wu1QzSkogEtjBgrJD+AUJDYsyPFtFHmvRYxb0f8JwGOXarlG8B+TUZKf0dgoWr+bB0fmEkKKEbBQ==",
+      "type": "package",
+      "path": "ardalis.specification/5.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ardalis.specification.5.2.0.nupkg.sha512",
+        "ardalis.specification.nuspec",
+        "icon.png",
+        "lib/netstandard2.0/Ardalis.Specification.dll",
+        "lib/netstandard2.0/Ardalis.Specification.pdb"
+      ]
+    },
     "AutoMapper/11.0.1": {
       "sha512": "WIadGC1pIwbnyTubvI577p3F++Bsj9q2Q3OaAc1I0QS+JhupN1xkdrPBhI9bPIeg63zM81tZplUNYkqU1HE5jQ==",
       "type": "package",
