@@ -1,6 +1,5 @@
 C:\Users\julia\source\repos\BancoCursoRESTful\Application\bin\Debug\net5.0\Application.deps.json
 C:\Users\julia\source\repos\BancoCursoRESTful\Application\bin\Debug\net5.0\Application.dll
-C:\Users\julia\source\repos\BancoCursoRESTful\Application\bin\Debug\net5.0\ref\Application.dll
 C:\Users\julia\source\repos\BancoCursoRESTful\Application\bin\Debug\net5.0\Application.pdb
 C:\Users\julia\source\repos\BancoCursoRESTful\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
 C:\Users\julia\source\repos\BancoCursoRESTful\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
@@ -10,3 +9,4 @@ C:\Users\julia\source\repos\BancoCursoRESTful\Application\obj\Debug\net5.0\Appli
 C:\Users\julia\source\repos\BancoCursoRESTful\Application\obj\Debug\net5.0\Application.dll
 C:\Users\julia\source\repos\BancoCursoRESTful\Application\obj\Debug\net5.0\ref\Application.dll
 C:\Users\julia\source\repos\BancoCursoRESTful\Application\obj\Debug\net5.0\Application.pdb
+C:\Users\julia\source\repos\BancoCursoRESTful\Application\obj\Debug\net5.0\refint\Application.dll
