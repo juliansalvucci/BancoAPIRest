@@ -13,3 +13,5 @@ C:\Users\julia\source\repos\BancoCursoRESTful\Shared\obj\Debug\net5.0\ref\Shared
 C:\Users\julia\source\repos\BancoCursoRESTful\Shared\bin\Debug\net5.0\Application.dll
 C:\Users\julia\source\repos\BancoCursoRESTful\Shared\bin\Debug\net5.0\Application.pdb
 C:\Users\julia\source\repos\BancoCursoRESTful\Shared\obj\Debug\net5.0\Shared.csproj.CopyComplete
+C:\Users\julia\source\repos\BancoCursoRESTful\Shared\bin\Debug\net5.0\Domain.dll
+C:\Users\julia\source\repos\BancoCursoRESTful\Shared\bin\Debug\net5.0\Domain.pdb

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XKCMZ8/snIqnqzm9KIjGVMgckBucDGqegZmOAzWkJiXUowUqF9p9B67Y1SMOiLSlHmig8D6P7VjqE+Hf/+q1JQ==",
+  "dgSpecHash": "6n2cRwMb4sSyVf3zuhsLUuSl8s256Ik4IVYbedoDM5Z7TR2mYziRYJO99t18T73hLEep7FUDqRdH4af+B7JCsA==",
   "success": true,
   "projectFilePath": "C:\\Users\\julia\\source\\repos\\BancoCursoRESTful\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\julia\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

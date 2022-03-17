@@ -79,3 +79,4 @@ C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\Microsoft.
 C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\Shared.dll
 C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\Shared.pdb
+C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
