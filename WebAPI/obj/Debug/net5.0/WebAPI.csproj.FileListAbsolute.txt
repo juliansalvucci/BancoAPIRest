@@ -80,3 +80,9 @@ C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\obj\Debug\net5.0\WebAPI.Mvc
 C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\Shared.dll
 C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\Shared.pdb
 C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\julia\source\repos\BancoCursoRESTful\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll

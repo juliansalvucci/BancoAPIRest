@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hcSrsktGZ6cOq/LYtR8X1rh7mwQC6TaBkgm+1iduYW8vAan4Y727rwWmu8eh8xztpGCIFSZr9Ej0k1iLzFWSFw==",
+  "dgSpecHash": "OvbNYZAsLya4jxKkObfosJMz9sMDbM6mmHeHxr/frTbl8UN8TK3hxWA7XwzOyJ6WM/Ndc8j4WULPhmWzX03LAg==",
   "success": true,
   "projectFilePath": "C:\\Users\\julia\\source\\repos\\BancoCursoRESTful\\Application\\Application.csproj",
   "expectedPackageFiles": [
@@ -13,9 +13,11 @@
     "C:\\Users\\julia\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
